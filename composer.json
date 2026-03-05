@@ -1,0 +1,8 @@
+{
+    "name": "heartifact/auth-system",
+    "description": "Complete authentication system with email verification and OTP",
+    "require": {
+        "phpmailer/phpmailer": "^7.0",
+        "google/apiclient": "^2.13"
+    }
+}
